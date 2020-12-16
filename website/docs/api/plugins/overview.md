@@ -5,6 +5,10 @@ sidebar_label: Plugins overview
 slug: '/api/plugins'
 ---
 
+import SectionWithLink from './section-with-link.md';
+
+<SectionWithLink />
+
 We provide official Docusaurus plugins.
 
 ## Content plugins
